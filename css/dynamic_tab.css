@@ -1,0 +1,35 @@
+        body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:14px; margin:0px auto;}
+        #tabs { margin:0; padding:0; list-style:none; overflow:hidden; }
+        #tabs li { float: left;
+display: block;
+padding-left: 0px;
+padding-right: 0px;
+background-color: #bbb;
+margin-right: 5px;
+border-radius: 4px;
+height: 25px;
+padding-top: 4px;
+margin: 5px;
+margin-left: 10px;
+}
+        #tabs li a { color:#fff; text-decoration:none; padding: 5px;padding-left: 7px; padding-right: 7px; }
+        #tabs li.current { background-color: rgb(247, 243, 243);}
+        #tabs li.current a { color:#000; text-decoration:none; }
+        #tabs li a.remove { color:#f00; margin-left:0px;}
+        #tabs li.remove { color:#f00; margin-left:5px;}
+        #content { /*background-color:#e1e1e1;*/height: 550px;margin-left: 10px;overflow: auto;}
+        #content p { margin: 0; padding:20px 20px 100px 20px;}
+        
+        #main { width:900px; margin:0px auto; overflow:hidden;background-color:#F6F6F6; margin-top:20px;
+             -moz-border-radius:10px;  -webkit-border-radius:10px; padding:30px;}
+        #wrapper, #doclist { float:left; margin:0 20px 0 0;}
+        #doclist { width:150px; border-right:solid 1px #dcdcdc;}
+        #doclist ul { margin:0; list-style:none;}
+        #doclist li { margin:10px 0; padding:0;}
+        #documents { margin:0; padding:0;}
+        
+        #wrapper { width: 99.5%; margin-top: 0;}
+            
+        #header{ background-color:#F6F6F6; width:900px; margin:0px auto; margin-top:20px;
+             -moz-border-radius:10px;  -webkit-border-radius:10px; padding:30px; position:relative;}
+        #header h2 {font-size:16px; font-weight:normal; margin:0px; padding:0px;}

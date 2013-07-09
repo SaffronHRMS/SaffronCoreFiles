@@ -1,0 +1,21 @@
+#myheader{
+	height: 50px;
+width: 90%;
+padding-left: 50px;
+}
+#header_menu{
+	width: 80%;
+margin-top: 2.5%;
+text-align: right;
+float: right;
+}
+#myfooter{
+     font-size: 10px;
+}
+
+.admin_pannel_center{
+	width: 1200px;
+	height: 900px;
+	
+}
+.ver_show{font-size: 10px;}

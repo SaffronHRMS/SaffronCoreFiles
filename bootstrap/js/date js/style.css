@@ -1,0 +1,19 @@
+body{
+	color: black;
+	background-color: green;
+	text-align: center;
+	font-size: 28px;
+	margin-top: 10%;
+}
+#submit_btn
+{
+text-align:center;
+border:solid 1px #0066FF;
+background: #0066FF;
+color: white;
+padding: 5px;
+cursor: pointer;
+border-radius: 5px;
+box-shadow: 1px 1px 3px 3px rgb(206, 206, 206);
+margin-top: 2%;
+}
